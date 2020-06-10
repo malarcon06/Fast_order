@@ -1,4 +1,5 @@
 public class Mesas {
+
     private int capacidad;
     private int numeroMesa;
     private String estado;
@@ -14,4 +15,5 @@ public class Mesas {
     public void setNumeroMesa(int numeroMesa){
         this.numeroMesa = numeroMesa;
     }
+
 }
